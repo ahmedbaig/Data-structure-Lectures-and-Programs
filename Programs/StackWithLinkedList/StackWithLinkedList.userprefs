@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="StackWithLinkedList/StackWithLinkedList.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackWithLinkedList/main.cpp">
+    <Files>
+      <File FileName="StackWithLinkedList/main.cpp" Line="53" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

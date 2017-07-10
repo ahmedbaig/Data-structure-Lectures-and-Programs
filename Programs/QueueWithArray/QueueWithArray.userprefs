@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="QueueWithArray/QueueWithArray.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueueWithArray/main.cpp">
+    <Files>
+      <File FileName="QueueWithArray/main.cpp" Line="33" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="AverageTemperatures/AverageTemperatures.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AverageTemperatures/main.cpp">
+    <Files>
+      <File FileName="AverageTemperatures/main.cpp" Line="44" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="InsertLinkedList/InsertLinkedList.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsertLinkedList/Source.cpp">
+    <Files>
+      <File FileName="InsertLinkedList/Source.cpp" Line="75" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
